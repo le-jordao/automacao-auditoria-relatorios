@@ -26,7 +26,7 @@ Execução do script
 ![Script](images/execução.png)
 
 Resultado consolidado
-![Resultado](planilha-resultado.png)
+![Resultado](images/planilha-resultado.png)
 
 Tecnologias
 - Google Apps Script
