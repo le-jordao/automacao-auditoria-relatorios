@@ -1,12 +1,15 @@
 Automação de Auditoria de Relatórios em Excel
 
 Sobre o projeto
+
 Automação desenvolvida para eliminar a conferência manual de relatórios em arquivos Excel distribuídos em múltiplas pastas.
 
 Problema
+
 A verificação manual de relatórios demandava várias horas e estava sujeita a erros humanos.
 
 Solução
+
 Script em Google Apps Script que:
 
 - Varre pastas e subpastas automaticamente
