@@ -43,11 +43,10 @@ Como usar
 5. Insira o ID da pasta no código
 6. Execute a função principal
 
-Observação
+Observações
 
-Projeto adaptado para demonstração. Dados reais foram removidos por privacidade.
-
-Caso volume grande de arquivos para conferência, adicionar acionadores de tempo de a cada 10 minutos executar novamente para continuar a atualização da planilha.
+- Projeto adaptado para demonstração. Dados reais foram removidos por privacidade.
+- Caso volume grande de arquivos para conferência, adicionar acionadores de tempo de a cada 10 minutos executar novamente para continuar a atualização da planilha.
 
 Resultado
 
