@@ -38,14 +38,14 @@ Como usar
 
 1. Crie uma pasta no Google Drive
 2. Crie uma subpasta com nome do funcionário fictício
-3. Adicione arquivos RELATORIO EXEMPLO.xlsx 
-4. Renomeie os arquivos com o nome dos funcionários
+3. Adicione arquivos demo-data/RELATORIO EXEMPLO.xlsx
+4. Renomeie os arquivos.xlsx com o nome dos funcionários
 5. Insira o ID da pasta no código
 6. Execute a função principal
 
 Observação
 Projeto adaptado para demonstração. Dados reais foram removidos por privacidade.
-Caso sejam muitos arquivos para conferência, adicionar acionadores de tempo de a cada 10 minutos executar novamente para continuar a atualização da planilha.
+Caso volume grande de arquivos para conferência, adicionar acionadores de tempo de a cada 10 minutos executar novamente para continuar a atualização da planilha.
 
 Resultado
 Redução significativa do tempo de conferência manual para execução automatizada. 
