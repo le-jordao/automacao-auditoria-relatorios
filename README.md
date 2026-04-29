@@ -45,7 +45,11 @@ Como usar
 
 Observação
 Projeto adaptado para demonstração. Dados reais foram removidos por privacidade.
+
 Caso volume grande de arquivos para conferência, adicionar acionadores de tempo de a cada 10 minutos executar novamente para continuar a atualização da planilha.
 
 Resultado
-Redução significativa do tempo de conferência manual para execução automatizada. 
+Redução significativa do tempo de conferência manual para execução automatizada.
+
+Cenário de uso
+Aplicável em processos administrativos, auditorias internas e conferência de relatórios em larga escala.
